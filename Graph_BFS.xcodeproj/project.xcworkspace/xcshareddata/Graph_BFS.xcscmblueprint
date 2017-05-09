@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "833973D759E8984BDCC7E877CD99ABD5632B96EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "833973D759E8984BDCC7E877CD99ABD5632B96EB" : 9223372036854775807,
+    "9022842D15F16F818744273466B5BAAA0EF9BD25" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3D64E65D-70E4-454C-9694-227AEDE1B379",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "833973D759E8984BDCC7E877CD99ABD5632B96EB" : "Graph_BFS\/",
+    "9022842D15F16F818744273466B5BAAA0EF9BD25" : "BinTree\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Graph_BFS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Graph_BFS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/loloDawit\/Graph.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "833973D759E8984BDCC7E877CD99ABD5632B96EB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/loloDawit\/Program2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9022842D15F16F818744273466B5BAAA0EF9BD25"
+    }
+  ]
+}
